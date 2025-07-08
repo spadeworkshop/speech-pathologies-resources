@@ -29,13 +29,21 @@ Contributions are welcome! If you have any suggestions for additions, please fee
 
 - ![Dataset](https://img.shields.io/badge/Dataset-0073e6) Luz, S., et al. (2021). Detecting Cognitive Decline Using Speech Only: The ADReSSo Challenge. In *Interspeech 2021* (pp. 3780-3784). [🏆 Challenge](https://luzs.gitlab.io/adresso-2021/) | [📝 Paper](https://www.isca-archive.org/interspeech_2021/luz21_interspeech.html)
 
+### 2017
+
+- ![Dataset](https://img.shields.io/badge/Dataset-0073e6) Jesus, L. M., et al. (2017). The advanced voice function assessment databases (AVFAD): Tools for voice clinicians and speech research. In *Advances in speech-language pathology. IntechOpen.* [📝 Paper](https://www.intechopen.com/chapters/55960)
+
 ### 2014
 
-- ![Dataset](https://img.shields.io/badge/Dataset-0073e6) Orozco-Arroyave, J. R., et al. (2014). New Spanish speech corpus database for the analysis of people suffering from Parkinson's disease. In *LREC* (pp. 342-347).
+- ![Dataset](https://img.shields.io/badge/Dataset-0073e6) Orozco-Arroyave, J. R., et al. (2014). New Spanish speech corpus database for the analysis of people suffering from Parkinson's disease. In *LREC* (pp. 342-347). [📝 Paper](https://aclanthology.org/L14-1549/)
 
 ### 2013
 
 - ![Dataset](https://img.shields.io/badge/Dataset-0073e6) Tučková, J., et al. (2013). Speech databases of typical children and children with SLI. *LINDAT/CLARIAH-CZ* digital library. [🔗 Dataset](http://hdl.handle.net/11372/LRT-1597)
+
+### 2007
+
+- ![Dataset](https://img.shields.io/badge/Dataset-0073e6) Woldert-Jokisz, B. (2007). Saarbruecken voice database. [🔗 Dataset](https://stimmdb.coli.uni-saarland.de/)
 
 ## Research Papers 📄
 
@@ -67,6 +75,8 @@ Contributions are welcome! If you have any suggestions for additions, please fee
 
 - ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) La Quatra, M., et al. (2025). Exploring Generative Error Correction for Dysarthric Speech Recognition. In *Interspeech 2025*. [📝 Paper](https://arxiv.org/abs/2505.20163)
 
+- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Liu, Q., et al., (2025). Multimodal Fusion Techniques to Enhance Voice Disorder Diagnoses. In *EDBT/ICDT DARLI-AP Workshop 2025.* [📝 Paper](https://ceur-ws.org/Vol-3946/DARLI-AP-10.pdf)
+
 ### 2024
 
 - ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) La Quatra, M., et al. (2024). Exploiting Foundation Models and Speech Enhancement for Parkinson's Disease Detection from Speech in Real-World Operative Conditions. In *Interspeech 2024*. [📝 Paper](https://arxiv.org/abs/2406.16128) | [💻 Code](https://github.com/K-STMLab/SSL4PR/)
@@ -81,19 +91,23 @@ Contributions are welcome! If you have any suggestions for additions, please fee
 
 ### 2023
 
-- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Tomanek, K., et al. (2023). An Analysis of Degenerating Speech Due to Progressive Dysarthria on ASR Performance. In *ICASSP 2023* (pp. 1–5).
+- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Tomanek, K., et al. (2023). An Analysis of Degenerating Speech Due to Progressive Dysarthria on ASR Performance. In *ICASSP 2023* (pp. 1–5). [📝 Paper](https://ieeexplore.ieee.org/document/10097195)
 
-- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Joshy, A. A., et al. (2023). Statistical Analysis of Speech Disorder Specific Features to Characterise Dysarthria Severity Level. In *ICASSP 2023* (pp. 1–5).
+- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Joshy, A. A., et al. (2023). Statistical Analysis of Speech Disorder Specific Features to Characterise Dysarthria Severity Level. In *ICASSP 2023* (pp. 1–5). [📝 Paper](https://ieeexplore.ieee.org/document/10095366/)
+
+- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Almadhor, A., et al. (2023). E2E-DASR: End-to-end deep learning-based dysarthric automatic speech recognition. In *Expert Systems with Applications 222 (2023): 119797*. [📝 Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423002981)
+
+- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Ribas, D., et al. (2023). Automatic voice disorder detection using self-supervised representations. In *Ieee Access 11 (2023): 14915-14927*. [📝 Paper](https://ieeexplore.ieee.org/abstract/document/10041907)
 
 ### 2022
 
 - ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Zezario, R. E., et al. (2022). Deep learning-based non-intrusive multi-objective speech assessment model with cross-domain features. *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, 31, 54–70. [📝 Paper](https://arxiv.org/abs/2111.02363)
 
-- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Wang, S. S., et al. (2022). Continuous Speech for Improved Learning Pathological Voice Disorders. *IEEE Open Journal of Engineering in Medicine and Biology*, 3, 25–33.
+- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Wang, S. S., et al. (2022). Continuous Speech for Improved Learning Pathological Voice Disorders. *IEEE Open Journal of Engineering in Medicine and Biology*, 3, 25–33. [📝 Paper](https://ieeexplore.ieee.org/document/9712873)
 
 ### 2020
 
-- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Chen-Yu, C., et al. (2020). Enhancing Intelligibility of Dysarthric Speech Using Gated Convolutional-Based Voice Conversion System. In *Interspeech 2020* (pp. 4686-4690).
+- ![Research Paper](https://img.shields.io/badge/Research%20Paper-28a745) Chen-Yu, C., et al. (2020). Enhancing Intelligibility of Dysarthric Speech Using Gated Convolutional-Based Voice Conversion System. In *Interspeech 2020* (pp. 4686-4690). [📝 Paper](https://www.isca-archive.org/interspeech_2020/chen20s_interspeech.html)
 
 ## Tools & Frameworks 🔧
 
